@@ -14,7 +14,7 @@ ChatGPT desempeñará un papel fundamental en esta ruta de aprendizaje. Entre to
 
 ## Z2h-Platform
 
-![Z2h](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img5.png)
+![Z2h](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img.png)
 
 "🚀 Z2H-Platform es el resultado de años de investigación en los que buscamos resolver cómo aprovechar el poder de cómputo de la nube, como Azure ☁️ o Google 🌐, y en este caso, el potencial de las máquinas virtuales (VM) 💻 y todos los beneficios que conllevan. Inicialmente, esta idea surgió con el propósito de abordar algunos desafíos laborales, pero posteriormente empecé a utilizar las VM como entornos de desarrollo 🖥️, tanto para mis proyectos personales 🤓, lo que con el tiempo también se convirtió en entornos de aprendizaje 📚.
 
