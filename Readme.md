@@ -3,7 +3,7 @@
 ## Bienvenidos a mi Learning Path: Full-Stack Web Development and AI with Python (React-Django/FastApi) 🚀🐍
 
 
-![Bootcamp](https://github.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/blob/main/img/img5.png?raw=true)
+![Bootcamp](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img1.png)
 
 
 Durante al menos 8-12 meses ⏳, desarrollaré una ruta de aprendizaje que estoy creando junto con ChatGPT, el cual la mayoría de ustedes conoce. 👋
