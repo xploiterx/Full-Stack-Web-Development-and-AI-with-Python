@@ -96,3 +96,5 @@ El acceso a entornos virtuales, servidores remotos y recursos en la nube puede g
 En Z2H-Platform, nos comprometemos a proporcionarte un acceso económico y eficiente a entornos de desarrollo remoto que te permitan enfocarte en aprender y practicar sin preocuparte por los costos excesivos. Nuestra plataforma te brinda la oportunidad de aprovechar recursos potentes y personalizados sin la carga financiera de crear y mantener estos entornos por tu cuenta. De esta manera, puedes centrarte en lo que realmente importa: tu aprendizaje y crecimiento en el mundo de la tecnología. 💻📚🌐
 
 Estamos aquí para apoyarte en tu viaje de aprendizaje y asegurarnos de que tengas acceso a las herramientas necesarias de manera rentable. ¡Continúa explorando y descubriendo en nuestra plataforma! 🚀👩‍💻👨‍💻
+
+![[img0.png]]
