@@ -97,4 +97,4 @@ En Z2H-Platform, nos comprometemos a proporcionarte un acceso económico y efici
 
 Estamos aquí para apoyarte en tu viaje de aprendizaje y asegurarnos de que tengas acceso a las herramientas necesarias de manera rentable. ¡Continúa explorando y descubriendo en nuestra plataforma! 🚀👩‍💻👨‍💻
 
-![[img0.png]]
+![[img.png]]
