@@ -28,7 +28,7 @@ En la actualidad, Linux es el sistema operativo más utilizado en el mundo de la
 
 ## Cloud Native & Contenedores 🌥️📦
 
-![Native](https://raw.githubusercontent.com/xploiterx/myObsidian-web/main/perlite/Modules/Modules-Web/Full-Stack%20Development/img/img2.png?token=GHSAT0AAAAAACHP33BKT37T6PVK4FJFSTGWZJJVGFA)
+![Native](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img2.png)
 
 1. **Cloud Native**: 💭🌐
 
