@@ -55,7 +55,7 @@ En la actualidad, Linux es el sistema operativo más utilizado en el mundo de la
 ## Desarrollo Remoto y Potenciado 🚀
 
 
-![Remote](https://raw.githubusercontent.com/xploiterx/myObsidian-web/main/perlite/Modules/Modules-Web/Full-Stack%20Development/img/img3.png?token=GHSAT0AAAAAACHP33BKXKC2A6GEJGEAKN2KZJJVGWQ)
+![Remote](https://github.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/blob/main/img/img3.png?raw=true)
 
 
 1. **Desarrollo Remoto**: 💻🌐
@@ -71,7 +71,7 @@ En la actualidad, Linux es el sistema operativo más utilizado en el mundo de la
    En tercer lugar, el desarrollo remoto basado en **contenedores** permite la configuración de entornos aislados y replicables 🛡️.
 
 
-![Remote](https://raw.githubusercontent.com/xploiterx/myObsidian-web/main/perlite/Modules/Modules-Web/Full-Stack%20Development/img/img4.png?token=GHSAT0AAAAAACHP33BKJVOFFWXYMJFOCUHWZJJVI6Q)
+![Remote](https://github.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/blob/main/img/img4.png?raw=true)
 
    Los estudiantes que se conectan a nuestra plataforma Z2H cuentan con un entorno de desarrollo basado en contenedores. Siguiendo la filosofía de los contenedores y el enfoque **Cloud Native**, aprenderás a trabajar con microservicios desde el principio. Además, los contenedores permiten replicar entornos de desarrollo exactamente iguales, lo que elimina problemas comunes como "a ti te funciona pero a mí no" o "instalé este programa pero obtuve este error" 🤦‍♂️🤷‍♀️. Estos problemas son frecuentes incluso para los desarrolladores más experimentados. 
 
