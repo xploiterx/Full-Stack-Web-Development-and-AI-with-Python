@@ -1,30 +1,56 @@
-
 # Introducción
-## Bienvenidos a mi Learning Path: Full-Stack Web Development and AI with Python (React-Django/FastApi) 🚀🐍
 
-
-![Bootcamp](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img1.png)
-
-
-Durante al menos 8-12 meses ⏳, desarrollaré una ruta de aprendizaje que estoy creando junto con ChatGPT, el cual la mayoría de ustedes conoce. 👋
-
-ChatGPT desempeñará un papel fundamental en esta ruta de aprendizaje. Entre todas las cualidades de esta poderosa herramienta, destaca su capacidad para funcionar como un profesor o tutor extremadamente inteligente 🤖. En pocas palabras, tendremos a nuestra disposición la inteligencia artificial más poderosa de la actualidad. Indudablemente, esto transformará la forma tradicional de aprender. Entre todas las áreas que la inteligencia artificial está transformando en el mundo, esta herramienta desempeñará un papel destacado. Durante este Learning Path, haremos un uso intensivo de esta formidable herramienta. 🧠📚
-
-**"Pero antes, déjame presentarte nuestra plataforma de entrenamiento Z2H, ya que este bootcamp será 80% práctico. Podrás practicar todo lo que veremos a lo largo del bootcamp sin tener que instalar casi nada en tu PC o laptop."** 💻🎓
-
-## Z2h-Platform
+## Z2h-Platform 
 
 ![Z2h](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img.png)
 
-"🚀 Z2H-Platform es el resultado de años de investigación en los que buscamos resolver cómo aprovechar el poder de cómputo de la nube, como Azure ☁️ o Google 🌐, y en este caso, el potencial de las máquinas virtuales (VM) 💻 y todos los beneficios que conllevan. Inicialmente, esta idea surgió con el propósito de abordar algunos desafíos laborales, pero posteriormente empecé a utilizar las VM como entornos de desarrollo 🖥️, tanto para mis proyectos personales 🤓, lo que con el tiempo también se convirtió en entornos de aprendizaje 📚.
+Bienvenidos a Z2h Platform, la primera plataforma de entrenamiento tecnológico en la nube. Z2h es una plataforma que te permitirá practicar con casi cualquier stack tecnológico moderno, desde desarrollo full-stack hasta Machine Learning.
 
-Además de lo mencionado, aprendí tres tecnologías clave que transformaron por completo mi perspectiva: 
+Z2h está construido sobre contenedores y Linux, por lo que cualquier programa que sea compatible con Linux probablemente se podrá ejecutar en nuestros contenedores remotos, lo que te permitirá aprender múltiples tecnologías simultáneamente.
+
+Z2h ha sido diseñado pensando en resolver un problema cada vez más común en el sector del aprendizaje: la configuración y el mantenimiento de entornos de desarrollo y aprendizaje, así como la capacidad de procesamiento y cómputo.
+
+**"Pero antes, déjame explicarte mejor en un video qué es Z2h-Platform nuestra plataforma de entrenamiento Z2H, ya que este bootcamp será 80% práctico y desde el principio practicarás todo lo que veremos a lo largo del bootcamp sin tener que instalar casi nada en tu PC o laptop."** 💻🎓
+
+"🚀 Z2H-Platform es el resultado de años de investigación en los que busque resolver cómo aprovechar el poder de cómputo de la nube, como Azure ☁️ o Google 🌐, y en este caso, el potencial de las máquinas virtuales (VM) 💻 y todos los beneficios que conllevan. Inicialmente, esta idea surgió con el propósito de abordar algunos desafíos laborales, pero posteriormente empecé a utilizar las VM como entornos de desarrollo 🖥️, tanto para mis proyectos personales 🤓, lo que con el tiempo también se convirtió en entornos de aprendizaje 📚.
+
+Además de lo mencionado, aprendí tres tecnologías clave que transformaron por completo mi perspectiva y se convirtieron en la base principal de nuestra plataforma: 
 
 🐧 Linux
-🐳 Docker
+🐳 Docker(Contenedores)
 ☸️ Kubernetes.
 
-En la actualidad, Linux es el sistema operativo más utilizado en el mundo de las tecnologías🌍, y casi todas las aplicaciones de software se ejecutan en este sistema operativo. Por otro lado, Docker cambió la forma en que creamos aplicaciones y las implementamos en producción 🏭, resolviendo una multitud de problemas de la época. Finalmente, Kubernetes, conocido como el sistema operativo de la nube ☁️ o la aplicación definitiva para gestionar contenedores 📦. Con estos "ingredientes" (Linux, Docker, Kubernetes + VM) 💡, creamos Z2H-Platform, la primera plataforma de entrenamiento tecnológico en la nube. 🌟"
+En la actualidad, Linux es el sistema operativo más utilizado en el mundo de las tecnologías🌍, y casi todas las aplicaciones de software se ejecutan en este sistema operativo. Por otro lado, Docker cambió la forma en que creamos aplicaciones y las implementamos en producción 🏭, resolviendo una multitud de problemas. Finalmente, Kubernetes, conocido como el sistema operativo de la nube ☁️ o la aplicación definitiva para gestionar contenedores 📦. 
+
+Con estos "ingredientes" (Linux, Docker, Kubernetes + VM) 💡, creamos Z2H-Platform, la primera plataforma de entrenamiento tecnológico en la nube. 🌟"
+
+
+## El comienzo
+
+Pero antes, permíteme contarte más acerca de por qué esto se convertirá en una tendencia en los próximos años. Resulta que, como desarrollador, he enfrentado los desafíos más comunes al desarrollar de manera tradicional o en un entorno local. A continuación, te presento algunos de estos desafíos  al desarrollar en un entorno local las desventajas en comparación con el desarrollo en la nube o en contenedores. Algunas de las desventajas con las que me tope:
+
+
+1. **Limitaciones de recursos**: El hardware local puede tener limitaciones en cuanto a capacidad de procesamiento, memoria y almacenamiento, lo que podría restringir la capacidad de realizar pruebas de carga o ejecutar aplicaciones exigentes.
+
+2. **Configuración inicial compleja**: Configurar un entorno local puede ser complejo y llevar tiempo, especialmente en proyectos con múltiples dependencias y configuraciones.
+
+3. **Problemas de compatibilidad**: Los entornos locales pueden diferir de los entornos de producción, lo que puede llevar a problemas de compatibilidad y a comportamientos inesperados en las aplicaciones.
+
+4. **Dificultad en la replicación de entornos**: Replicar entornos locales exactamente iguales en diferentes máquinas puede ser complicado, lo que a veces dificulta aprender múltiples disciplinas
+
+5. **Problemas de seguridad y respaldo**: La seguridad y el respaldo de datos y configuraciones pueden ser un desafío en los entornos locales. No siempre se dispone de medidas de seguridad avanzadas y sistemas de respaldo automáticos. ¡Cuando algo se rompe o deja de funcionar!
+
+6. **Desperdicio de recursos locales**: El desarrollo en local puede requerir que los desarrolladores mantengan recursos locales dedicados, lo que puede ser ineficiente en términos de costos y utilización de hardware.
+
+7. **Mayor esfuerzo de mantenimiento**: Los entornos locales requieren más esfuerzo para mantener el software, aplicar actualizaciones y administrar todos los recursos local.
+
+
+	**Lo interesante de lo anterior es que esto no solo se aplica al ámbito de los profesionales, sino que también afecta al aprendizaje, ya que aprender es una disciplina constante, sin importar si eres un profesional con años de experiencia. TODOS enfrentamos problemas al mantener entornos de desarrollo complejos, ya sea para trabajar o aprender.**
+
+	Por ejemplo, al comenzar tu ruta de aprendizaje, no enfrentas dificultades significativas al principio, ya que lo que necesitas es muy básico. Sin embargo, a medida que avanzas, te das cuenta de que requieres cada vez más aplicaciones, bibliotecas y recursos informáticos para continuar con tu aprendizaje.
+
+
+Ahora vemos algunas de las tecnologías actuales con las que la industria TECH trabaja día a día para crear Software del más alto nivel. 
 
 ## Cloud Native & Contenedores 🌥️📦
 
@@ -96,5 +122,3 @@ El acceso a entornos virtuales, servidores remotos y recursos en la nube puede g
 En Z2H-Platform, nos comprometemos a proporcionarte un acceso económico y eficiente a entornos de desarrollo remoto que te permitan enfocarte en aprender y practicar sin preocuparte por los costos excesivos. Nuestra plataforma te brinda la oportunidad de aprovechar recursos potentes y personalizados sin la carga financiera de crear y mantener estos entornos por tu cuenta. De esta manera, puedes centrarte en lo que realmente importa: tu aprendizaje y crecimiento en el mundo de la tecnología. 💻📚🌐
 
 Estamos aquí para apoyarte en tu viaje de aprendizaje y asegurarnos de que tengas acceso a las herramientas necesarias de manera rentable. ¡Continúa explorando y descubriendo en nuestra plataforma! 🚀👩‍💻👨‍💻
-
-![[img.png]]
