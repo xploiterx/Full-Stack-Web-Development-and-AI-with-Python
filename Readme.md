@@ -70,6 +70,18 @@ En la actualidad, `Linux` es el sistema operativo más utilizado en el mundo de 
 
 Con estos "ingredientes" (Linux, Docker, Kubernetes) 💡, creamos Z2H-Platform, la primera plataforma de entrenamiento tecnológico en la nube. 🌟"
 
+
+## ¿Cómo Funciona Z2h?
+
+![Z2h](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img12.png)
+
+Z2h-Platform esta soportado en la nube (Azure y Google) y utiliza clústeres de Kubernetes y contenedores de desarrollo. Para conectarse a estos clústeres de Kubernetes, se utilizan dos componentes clave:
+
+1. Visual Studio Code: Este es el editor de código más ampliamente utilizado en la industria TECH y preferido por la mayoría.
+
+2. Extensión Remote Development (Extensión VSCode): Esta poderosa extensión permite desarrollar código en una máquina remota, ya sea un servidor, una máquina virtual o, en nuestro caso, contenedores alojados en Kubernetes. Esto brinda la ventaja de aprovechar la mayor potencia de procesamiento y los recursos específicos de la máquina remota sin sacrificar la comodidad y las funcionalidades de Visual Studio Code. La extensión Remote Development permite que VS Code funcione de la misma manera en un contenedor remoto o en un entorno local, lo que supone una ventaja significativa.
+
+
 ## GitLab CI & Self-Hosted
 
 
@@ -175,6 +187,7 @@ Ahora vemos algunas de las tecnologías actuales con las que la industria TECH t
    Los estudiantes que se conectan a nuestra plataforma Z2H cuentan con un entorno de desarrollo basado en contenedores. Siguiendo la filosofía de los contenedores y el enfoque **Cloud Native**, aprenderás a trabajar con microservicios desde el principio. Además, los contenedores permiten replicar entornos de desarrollo exactamente iguales, lo que elimina problemas comunes como "a ti te funciona pero a mí no" o "instalé este programa pero obtuve este error" 🤦‍♂️🤷‍♀️. Estos problemas son frecuentes incluso para los desarrolladores más experimentados. 
 
 En resumen, en Z2H-Platform estamos potenciando el aprendizaje y el desarrollo, brindándote entornos de desarrollo remoto avanzados y simplificados, lo que te ayudará a sobresalir y a enfrentar los desafíos tecnológicos con éxito. 📈💼💡
+
 ## Aprendizaje 4x: 🚀
 
 ![Remote](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img9.png)
