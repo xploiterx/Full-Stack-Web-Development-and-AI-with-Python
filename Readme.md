@@ -2,37 +2,37 @@
 
 ![Z2h](https://raw.githubusercontent.com/xploiterx/Bootcamp-Full-Stack-Web-Development-and-AI-with-Python/main/img/img.png)
 
-Bienvenidos a Z2h Platform, la primera plataforma de entrenamiento tecnológico en la nube para AUTODIDACTAS. ¿Qué significa esto? Pues sencillo, primero definamos qué es un estudiante autodidacta:
+Bienvenidos a Z2h Platform, la primera plataforma de entrenamiento tecnológico en la nube. ¿Qué significa esto? 
 
-***Un estudiante autodidacta es aquel que aprende por sí mismo, sin necesidad de recibir instrucción formal de un profesor o institución educativa. Este tipo de aprendizaje se conoce como autoaprendizaje o aprendizaje autónomo.***
-
-Ahora permíteme compartir un poco sobre mi caso y mi experiencia siguiendo esta metodología:
-
-Durante muchos años toda la formación tecnológica que he realizado la he hecho por mi propia cuenta ya que encuentro muy atractivo la investigación, documentar y probar muchas de las cosas que quiero aprender. Hasta aquí ningún misterio. Sin embargo, algo que siempre me llamo la atención fue la limitante de configurar entornos de desarrollo local o en mi PC para el aprendizaje. Esto me llevo a probar las maquinas virtuales en las que encontré muchas ventajas vs mi PC. Sin embargo hubo una limitante. COSTOS$ 
-
-Luego, reflexioné: "La educación en línea ha pasado por alto este aspecto y se ha centrado principalmente en la oferta de videos y plataformas de cursos en línea, a menudo con limitaciones. ¿Por qué no crear una plataforma que se enfoque en el aprendizaje en línea, pero que aproveche el poder de la nube para enriquecer la experiencia de los estudiantes en sus propias computadoras?
-
-🚀 Z2H-Platform es el resultado de años de investigación en los que busque resolver cómo aprovechar el poder de cómputo de la nube, como Azure ☁️ o Google 🌐, y en este caso, el potencial de las máquinas virtuales (VM) para crear entornos de desarrollo 🖥️, tanto para mis proyectos personales 🤓, lo que con el tiempo también se convirtió en entornos de aprendizaje 📚.
-
-## ¿Z2h es solo para autodidactas?
-
-La respuesta breve es "NO". Como mencioné al principio, la plataforma fue inicialmente desarrollada pensando en este nicho de estudiantes. Sin embargo, surgió la idea de agregar documentación a la plataforma y crear Learning Paths para las rutas de aprendizaje más populares.
-
-Por lo que contarás con rutas de aprendizaje guiadas y soporte por parte de nuestros tutores con las dudas o problemas que puedas tener.
-
-Así que, Z2h es una plataforma no convencional para el aprendizaje autodidacta, pero que incorporará documentación que cubrirá Learning Paths para el aprendizaje desde cero en diversas carreras tecnológicas. Además, más adelante, se centrará en el aprendizaje de stacks tecnológicos de forma individual.
+🚀 Z2H-Platform es el resultado de años de investigación en los que busque resolver cómo aprovechar el poder de cómputo de la nube, como Azure ☁️ o Google 🌐, y en este caso, el potencial de las máquinas virtuales (VM) para crear entornos de desarrollo 🖥️, tanto para mis proyectos personales 🤓, lo que con el tiempo también se convirtió en ***entornos de aprendizaje.*** 📚.
 
 ## ¿Qué es Z2h?
 
-Z2h es una plataforma que te permitirá practicar con casi cualquier stack tecnológico moderno, desde desarrollo full-stack hasta Machine Learning y DevOps.
+Z2h es una plataforma que te permitirá practicar y aprender con casi cualquier stack tecnológico moderno, desde desarrollo full-stack hasta Machine Learning y DevOps.
 
 Z2h está construido sobre docker & linux por lo que cualquier programa que sea compatible con Linux probablemente se podrá ejecutar en nuestros contenedores remotos, lo que te permitirá aprender múltiples tecnologías simultáneamente.
+
+
+## ¿Qué puedo hacer en Z2h? 
+
+### Learning Paths
+
+¿Qué es un Learning Path? **learning path** se refiere más a un camino o una secuencia estructurada de recursos de aprendizaje que se organizan de manera progresiva para desarrollar habilidades a lo largo del tiempo. Puede incluir una variedad de recursos, como cursos en línea, tutoriales, lecturas y proyectos prácticos. Los learning path son más flexibles en términos de duración y ritmo, permitiéndote avanzar a tu propio ritmo.
+
+En Z2h construiremos Learning Paths en formato documentación con apoyo de videos y tutoriales guiados para enriquecer la experiencia de aprendizaje. Estos Learning Paths puedes desarrollarlos en nuestra plataforma sin preocuparte de instalar nada en tu PC por lo que puedes trabajar con tecnologías como Docker, Flask, PostgreSQL, Minio, MongoDB y muchas otras más. Tecnologías que son complejas de instalar y sobre todo de mantener dada la complejidad de su configuración.
+
+Incluso, en entornos profesionales configurar estos Stacks tecnológicos suelen ser un dolor de cabeza para los de IT  - por lo que será aun más difícil configurar estos Stacks en un Windows o Mac.
+
+En general, los Learning Paths en el contexto de la educación tecnológica, se destaca por las ventajas en la estructura del aprendizaje, la amplitud de los stacks tecnológicos y la facilidad de actualización del contenido.
+
+***Z2h es una plataforma de entrenamiento que simula un PC a través de Máquinas Virtuales o Clústeres de Kubernetes en nuestro caso. En Z2h, cada usuario se conecta a un contenedor de desarrollo para programar y aprender cualquier Stack Tecnológico haciendo uso de Learning Paths Documentados***
 
 ## ¿Qué resuelve Z2h?
 
 Z2h ha sido diseñado pensando en resolver dos problemas cada vez más comunes en el sector del aprendizaje o el e-Learning: 
 
 1. Configuración de entornos : La configuración y el mantenimiento de entornos de desarrollo y aprendizaje, así como la capacidad de procesamiento y cómputo, son limitaciones muy importantes cuando un estudiante quiere aprender alguna tecnología o stack tecnológico. Replicar un entorno de aprendizaje para que funcione exactamente igual para el usuario A que para el usuario B es un gran desafío. Además, contar con los recursos computacionales necesarios para trabajar con los stacks tecnológicos modernos es una limitante significativa en muchos casos.
+
 2. End2End: Revisemos el caso de los bootcamps de desarrollo Full Stack - estos no suelen incluir enseñanza sobre las bases de DevOps, ya que se centran en preparar a los estudiantes en el stack tecnológico básico. Además, la complejidad de tener un stack tecnológico "Ready to Go," como Docker y Kubernetes, dificulta que los estudiantes interactúen con estos stacks de forma sencilla. Ahora, por otro lado, Intentar que cada alumno configure todos los componentes necesarios en su entorno local para practicar estas tecnologías representa un desafío significativo.
 
 **Z2h se propone resolver estos desafíos proporcionando a los estudiantes una plataforma "End2End" o de "extremo a extremo" que no solo les permita aprender las tecnologías básicas o avanzadas necesarias en las diferentes rutas de aprendizaje, sino también sumergirse en el mundo del desarrollo y despliegue de aplicaciones de manera similar a cómo ocurre en el entorno real de DevOps**
@@ -210,10 +210,10 @@ En Z2H-Platform, nos comprometemos a proporcionarte un acceso económico y efici
 
 ## Resumen
 
-Z2h-Platform es una plataforma de entrenamiento tecnológico en la nube pensada en los estudiantes "Autodidactas" que abordará los desafíos comunes que enfrentan los estudiantes al crear entornos de desarrollo local. Estos desafíos incluyen limitaciones de recursos, configuración inicial compleja, problemas de compatibilidad y dificultades en la replicación de entornos.
+Z2h-Platform es una plataforma de entrenamiento tecnológico End2End en la nube pensada en las rutas de aprendizaje o Learning Paths que abordara los desafíos al que se enfrentan los estudiantes al crear entornos de desarrollo local. Estos desafíos incluyen limitaciones de recursos, configuración inicial compleja, problemas de compatibilidad y dificultades en la replicación de entornos.
 
-Z2h-Platform resuelve estos desafíos ofreciendo entornos de desarrollo remoto potenciados por tecnologías como Docker y Kubernetes. Los estudiantes pueden trabajar en múltiples tecnologías simultáneamente sin preocuparse por la configuración local. La plataforma se basa en conceptos de Cloud Native y contenedores, lo que permite una mayor flexibilidad y escalabilidad en el desarrollo de software.
+Z2h-Platform resuelve estos desafíos ofreciendo entornos de desarrollo remoto potenciados por tecnologías como Docker y Kubernetes. Los estudiantes pueden trabajar en múltiples tecnologías simultáneamente sin preocuparse por la configuración local. La plataforma se basa en conceptos Cloud Native y contenedores, lo que permite una mayor flexibilidad y escalabilidad en el desarrollo y aprendizaje de culquier Stack Tecnológico.
 
 En resumen, Z2h-Platform impulsa el aprendizaje 4x al permitir a los estudiantes trabajar con múltiples tecnologías de manera eficiente y potenciar sus carreras en la industria tecnológica.
 
-***Estamos aquí para apoyarte en tu viaje de aprendizaje y asegurarnos de que tengas acceso a las herramientas necesarias de manera rentable. ¡Continúa explorando y descubriendo en nuestra plataforma!*** 🚀👩‍💻👨‍💻
+***Estamos aquí para apoyarte en tu viaje de aprendizaje y asegurarnos de que tengas acceso a los stacks tecnológicos mas usados en la industria TECH. ¡Continúa explorando y descubriendo en nuestra plataforma!***🚀👩‍💻👨‍💻
